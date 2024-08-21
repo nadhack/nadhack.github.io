@@ -30,6 +30,12 @@ body {
   height: 100%;
 }
 
+header::after {
+   clear: both;
+   content: '';
+   display: table;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
