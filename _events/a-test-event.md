@@ -1,4 +1,4 @@
---
+---
 layout: event
 title: A test event
 event_date: June 29, 2025
