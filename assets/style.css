@@ -30,6 +30,12 @@ body {
   height: 100%;
 }
 
+header::after {
+   clear: both;
+   content: '';
+   display: table;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -420,7 +426,7 @@ nav {
 }
 
 .wrapper-main {
-  margin-top: 100px;
+  margin-top: 30px;
   padding-bottom: 134px;
 }
 
