@@ -7,4 +7,4 @@ excerpt: Model of Greenham Common Control Tower
 
 Member created a model of the Control Tower to display in the vistor centre.
 
-![](/images/family-fun-23.png)
+![](/images/control-tower-model.png)
