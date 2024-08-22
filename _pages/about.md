@@ -8,7 +8,7 @@ permalink: /about/
 
 ## How to find us
 
-We are located in The Pavillion on the corner of The Moors and Lower Way in Thatcham. RG19 3AZ.
+We are located in The Workshop on the corner of The Moors and Lower Way in Thatcham. RG19 3AZ.
 
 ![](/images/find-us.png)
 
