@@ -8,3 +8,5 @@
 
 #Pop along and get to have a go on the many computers and games consoles we will have on display. 
 #Test your driving skills on our droid track, or do battle in a Battle Bots arena. 
+
+#![](/images/sinclair-zx-spectrum.png)
