@@ -11,3 +11,4 @@ We held our annual Retro Computer event on the 12th October. Despite the weather
 ![](/images/bbc1.png)
 ![](/images/gamesconsoles1.png)
 ![](/images/gamesconsoles2.png)
+![](/images/retro/bbc1.png)
