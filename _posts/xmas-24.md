@@ -2,7 +2,7 @@
 layout: event
 title: Christmas 2024
 event_date: December 25, 2024
-categories: [Members-project]
+categories: [Members-Project]
 excerpt: Our members have been busy creating items for Christmas  
 ---
 
