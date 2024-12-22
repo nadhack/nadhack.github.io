@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas 2024
-categories: [Members-Project]
+categories: [External-Event]
 excerpt: Our members have been busy creating items for Christmas  
 ---
 
