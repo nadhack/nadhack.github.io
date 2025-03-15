@@ -1,7 +1,8 @@
 ---
 layout: event
 title: Thatcham Fun Day 2025
-event_date: June 29, 2025
+display_date: June 29, 2025
+event_date: 29-06-25
 categories: [External-Event]
 excerpt: Thatcham Fun Day 11am till 4pm at Henwick Worthy Sports Ground 
 ---
