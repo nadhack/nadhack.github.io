@@ -1,7 +1,8 @@
 ---
 layout: event
 title: Christmas Lights Switch On
-event_date: December 5, 2025
+display_date: December 5, 2025
+event_date: 05-12-25
 categories: [External-Event]
 excerpt: This years Christmas light switch on. Thatcham Town Center from 5pm
 ---
