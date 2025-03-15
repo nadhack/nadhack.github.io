@@ -4,7 +4,7 @@ layout: default
 
 <a href="{{ site.baseurl }}/events"><h2>Events</h2></a>
 <div class="posts">
-  {% assign items = site.events | sort: 'event_date' %}
+  {% assign items = site.events | sort: 'event_date' | reverse %}
   {% for event in items limit:30 %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ event.url }}">
