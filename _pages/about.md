@@ -14,6 +14,6 @@ We are located in The Workshop on the corner of The Moors and Lower Way in Thatc
 
 ## Contact us on Facebook or email
 
-[hello@nadhack.org.uk](mailto:hello@nadhack.org.uk)
+[hello@nadhack.co.uk](mailto:hello@nadhack.org.uk)
 
 [www.facebook.com/newburyhackspace](https://www.facebook.com/newburyhackspace/)
