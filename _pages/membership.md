@@ -11,7 +11,7 @@ All membership fees are discretionary. It costs us approximately £25/month/memb
 
 If you are interested in what we do and want to become a member, you can signup using this link to our payment system [Gocardless](https://pay.gocardless.com/AL0000FVVDBC3G) 
 
-If you have any questions you can contact us at: [hello@nadhack.org.uk](mailto:hello@nadhack.org.uk) 
+If you have any questions you can contact us at: [hello@nadhack.co.uk](mailto:hello@nadhack.co.uk) 
 
 ## Membership levels
 
