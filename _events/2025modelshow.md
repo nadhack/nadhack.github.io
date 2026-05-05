@@ -2,7 +2,7 @@
 layout: event
 title: Thatcham Model Show 2026
 display_date: October , 2026
-event_date: 11-10-26
+event_date: 10-10-26
 categories: [External-Event]
 excerpt: Thatcham Model Show. Presented by NadHack as part of the Thatcham Arts Festival 
 ---
@@ -11,4 +11,4 @@ After the success of 2025 event we will be running it again in 2026. The date is
 We are expecting a large range of models to be displayed from individual model makers and local clubs. Items on display ranging from Lego, Meccano, Plastic kits, Model Railway, Live Steam and much more.
 There will also be a demonstration on Warhammer modeling. 
 
-![](/images/2025modelshow1.png)
+![](/images/model_show_poster_2026.png)
