@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Thatcham Model Show 2026
-display_date: October , 2026
+display_date: 10 October , 2026
 event_date: 10-10-26
 categories: [External-Event]
 excerpt: Thatcham Model Show. Presented by NadHack as part of the Thatcham Arts Festival 
